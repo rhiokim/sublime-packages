@@ -1,0 +1,35 @@
+{
+	"auto_upgrade_last_run": 1347032180,
+	"installed_packages":
+	[
+		"AMD Module Editor",
+		"Backbone.js",
+		"DocBlockr",
+		"Git",
+		"GitHub.app Menu",
+		"Gitignore",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"Markdown Preview",
+		"Markdown Slideshow",
+		"Markdown Todo",
+		"Nodejs",
+		"Require Helper",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Smart Match",
+		"Sublime File Navigator",
+		"Sublime Files",
+		"Sublime V8",
+		"sublime-github",
+		"SublimeCodeIntel",
+		"SublimeGoogle",
+		"SublimeServer",
+		"Terminal",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"Twitter Bootstrap Snippets",
+		"View In Browser"
+	]
+}
